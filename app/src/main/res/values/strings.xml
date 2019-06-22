@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Buss App</string>
+    <string name="logo_description">Logo app</string>
+    <string name="user_code">Código</string>
+    <string name="user_pass">Contraseña</string>
+    <string name="forget_pass">Olvidaste tu contraseña?</string>
+    <string name="login_text">Ingresar</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="destination_question">Seleccione destino:</string>
+    <string name="ccoyahuacho">Sede Ccoyahuacho</string>
+    <string name="santarosa">Sede Santa Rosa</string>
+    <string name="borrame">borrame</string>
+</resources>
