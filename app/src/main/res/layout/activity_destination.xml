@@ -17,20 +17,21 @@
         android:layout_height="wrap_content"
         android:text="@string/destination_question"/>
     <Button
+        android:id="@+id/btn_cc"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/ccoyahuacho"/>
 
     <Button
+        android:id="@+id/btn_sr"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/santarosa"/>
 
     <Button
-        android:id="@+id/btn_mapa"
+        android:id="@+id/btn_free"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="showBus"
         android:text="Libre"/>
 
 </LinearLayout>
